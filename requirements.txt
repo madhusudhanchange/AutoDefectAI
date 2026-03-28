@@ -1,0 +1,4 @@
+playwright>=1.40
+pytest>=8.0
+requests>=2.31
+openai>=1.0
